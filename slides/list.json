@@ -2,10 +2,19 @@
     "index.md",
     "welkom.html",
     "titelpagina.html",
-
     [
         "epssuitleg.html",
         "epssuitleg2.html"
-    ]
-
+    ],
+    "inlogmethode.html",
+    "gebruikerskant-doorlopen.html",
+    "editoruitleg.html",
+    "pts.html",
+    [
+        "dosanddonts.html",
+        "dosanddonts2.html"
+    ],
+    "embedden.html",
+    "aan-de-slag.html"
+    
 ]
